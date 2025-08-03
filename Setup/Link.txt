@@ -1,0 +1,3 @@
+https://github.com/vadimgrn/usbip-win2
+
+https://github.com/dorssel/usbipd-win
